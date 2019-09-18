@@ -1,0 +1,17 @@
+{
+  "name": "mongooseINIT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.1",
+    "save": "^2.4.0",
+    "should": "^13.2.3"
+  }
+}
